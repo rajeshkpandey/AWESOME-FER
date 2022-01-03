@@ -2,8 +2,6 @@
 
 :memo: :high_brightness: Top conferences & Journals focused on Facial expression recognition (FER)/ Facial action unit (FAU)
 
-（:white_small_square: Update: Another [repository](https://github.com/EvelynFan/AWESOME-MER) for papers on Multimodal Emotion Recognition (MER) is available :heavy_check_mark:）
-
 ***
 :high_brightness: [Datasets](#datasets)
 
@@ -103,6 +101,9 @@ Registration, Representation, and Recognition [[paper](https://ieeexplore.ieee.o
 ## Facial Expression Recognition
 
 ### :small_orange_diamond: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)
+- (2021) Affective Processes: Stochastic Modelling of Temporal Context for Emotion and Facial Expression Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sanchez_Affective_Processes_Stochastic_Modelling_of_Temporal_Context_for_Emotion_and_CVPR_2021_paper.pdf)]
+- (2021) Dive Into Ambiguity: Latent Distribution Mining and Pairwise Uncertainty Estimation for Facial Expression Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/She_Dive_Into_Ambiguity_Latent_Distribution_Mining_and_Pairwise_Uncertainty_Estimation_CVPR_2021_paper.pdf)]
+- (2021) Feature Decomposition and Reconstruction Learning for Effective Facial Expression Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ruan_Feature_Decomposition_and_Reconstruction_Learning_for_Effective_Facial_Expression_Recognition_CVPR_2021_paper.pdf)]
 - (2020) Label Distribution Learning on Auxiliary Label Space Graphs
 for Facial Expression Recognition [[paper](http://palm.seu.edu.cn/xgeng/files/cvpr20.pdf)]
 - (2020) Suppressing Uncertainties for Large-Scale Facial Expression Recognition [[paper](https://arxiv.org/pdf/2002.10392.pdf)]
@@ -131,6 +132,9 @@ Expression Recognition [[paper](https://www.cv-foundation.org/openaccess/content
 Muscles for Facial Expression Recognition [[paper](http://f4k.dieei.unict.it/proceedings/CVPR13/data/papers/4989d422.pdf)][:dizzy:]
 
 ### :small_orange_diamond: International Conference on Computer Vision (ICCV)
+- (2021) Understanding and Mitigating Annotation Bias
+in Facial Expression Recognition [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Understanding_and_Mitigating_Annotation_Bias_in_Facial_Expression_Recognition_ICCV_2021_paper.pdf)]
+- (2021) TransFER: Learning Relation-Aware Facial Expression Representations With Transformers [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xue_TransFER_Learning_Relation-Aware_Facial_Expression_Representations_With_Transformers_ICCV_2021_paper.pdf)]
 - (2019) Context-Aware Emotion Recognition Networks [[paper](https://arxiv.org/pdf/1908.05913.pdf)]
 - (2019) Attention-Aware Polarity Sensitive Embedding for Affective Image Retrieval [[paper]()]
 - (2019) Zero-Shot Emotion Recognition via Affective Structural Embedding [[paper]()]
@@ -163,6 +167,15 @@ Image Emotions [[paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/411
 - (2018) Learning Spatio-temporal Features with Partial Expression Sequences for on-the-Fly Prediction [[paper](https://arxiv.org/pdf/1711.10914.pdf)]][:dizzy:]
 
 ### :small_orange_diamond: ACM International Conference on Multimedia (ACM MM)
+- (2020) IExpressNet: Facial Expression Recognition with Incremental Classes [[paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413718)]
+- (2020) Occluded Facial Expression Recognition with Step-Wise Assistance from Unpaired Non-Occluded Images [[paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413773)]
+- (2020) Uncertainty-aware Cross-dataset Facial Expression Recognition via Regularized Conditional Alignment [[paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413515)]
+- (2020) R-FENet: A Region-based Facial Expression Recognition Method Inspired by Semantic Information of Action Units [[paper](https://dl.acm.org/doi/abs/10.1145/3422852.3423482)]
+- (2020) A Novel Graph-TCN with a Graph Structured Representation for Micro-expression Recognition [[paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413714)]
+- (2020) DFEW: A Large-Scale Database for Recognizing Dynamic Facial
+Expressions in the Wild [[paper](https://arxiv.org/pdf/2008.05924.pdf)]
+- (2020) Adversarial Graph Representation Adaptation
+for Cross-Domain Facial Expression Recognition [[paper](https://arxiv.org/pdf/2008.00859.pdf)],[[code](https://github.com/HCPLab-SYSU/CD-FER-Benchmark)]
 - (2019) Occluded Facial Expression Recognition Enhanced through Privileged Information [[paper](https://dl.acm.org/citation.cfm?doid=3343031.3351049)]
 - (2019) Identity- and Pose-Robust Facial Expression Recognition through Adversarial Feature Learning [[paper](https://dl.acm.org/citation.cfm?id=3350872)]
 - (2019) Comp-GAN: Compositional Generative Adversarial Network in Synthesizing and Recognizing Facial Expression [[paper](https://dl.acm.org/citation.cfm?id=3351032)]
@@ -176,6 +189,8 @@ Image Emotions [[paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/411
 Micro-Expression Recognition [[paper](https://arxiv.org/pdf/1707.08645.pdf)]
 
 ### :small_orange_diamond: International Joint Conference on Artificial Intelligence (IJCAI)
+- (2020) Weakly Supervised Local-Global Relation Network
+for Facial Expression Recognition [[paper](https://www.ijcai.org/Proceedings/2020/0145.pdf)]
 - (2018) Personality-Aware Personalized Emotion Recognition from Physiological Signals [[paper](https://www.ijcai.org/proceedings/2018/0230.pdf)]
 - (2017) Approximating Discrete Probability Distribution of Image Emotions by
 Multi-Modal Features Fusion [[paper](https://www.ijcai.org/proceedings/2017/0651.pdf)]
@@ -291,6 +306,8 @@ Expression Recognition [[paper](https://ieeexplore.ieee.org/document/7163101)][:
 - (2019) Pooling Map Adaptation in Convolutional Neural Network for Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8785044)]
 
 ### :small_orange_diamond: IEEE Transactions on Affective Computing
+- (2020) STCAM: Spatial-Temporal and Channel Attention Module for Dynamic Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9209166)]
+- (2020) Phase Space Reconstruction Driven Spatio-Temporal Feature Learning for Dynamic Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/document/9134869)]
 - (2020) Facial Expression Recognition with Deeply-Supervised Attention Network [[paper](https://ieeexplore.ieee.org/document/9075283)]
 - (2019) On-the-Fly Facial Expression Prediction using LSTM Encoded Appearance-Suppressed Dynamics [[paper](https://ieeexplore.ieee.org/abstract/document/8922646)] 
 - (2019) Dynamic Pose-Robust Facial Expression Recognition by Multi-View Pairwise Conditional Random Forests [[paper](https://ieeexplore.ieee.org/document/7934067)]
@@ -328,6 +345,8 @@ Analysis [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/kollias2020_
 - (2019) Blended Emotion in-the-Wild: Multi-label Facial Expression Recognition Using Crowdsourced Annotations and Deep Locality Feature Learning [[paper](https://link.springer.com/article/10.1007/s11263-018-1131-1)]
 
 ### :small_orange_diamond: IEEE Transactions on Image Processing (TIP)
+- (2020) Facial Expression Recognition in Videos
+using Dynamic Kernels [[paper](https://ieeexplore.ieee.org/abstract/document/9153096)]
 - (2020) Multi-modal Recurrent Attention Networks for Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9102419)]
 - (2020) A Unified Deep Model for Joint Facial Expression Recognition, Face Synthesis, and Face Alignment [[paper](https://ieeexplore.ieee.org/document/9090326)]
 - (2020) Geometry Guided Pose-Invariant Facial
@@ -383,6 +402,7 @@ Multimodal Emotion Analysis [[paper](https://ieeexplore.ieee.org/document/826932
 Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/document/7530823)][:dizzy:]
 
 ### :small_orange_diamond: IEEE Transactions on Circuits and Systems for Video Technology 
+- (2020) Facial Expression Recognition with Two-branch Disentangled Generative Adversarial Network [[paper](https://ieeexplore.ieee.org/abstract/document/9197663)]
 - (2018) Learning Affective Features With a Hybrid Deep Model for Audio–Visual Emotion Recognition [[paper](https://ieeexplore.ieee.org/document/7956190)]
 - (2018) Mixture Statistic Metric Learning for Robust Human Action and Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8103056)]
 
@@ -392,6 +412,9 @@ Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/document/7530
 ### :small_orange_diamond: IEEE Transactions on Cybernetics
 - (2019) Adaptive Weighting of Handcrafted Feature Losses for Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/document/8786929)]
 - (2015) Learning Multiscale Active Facial Patches for Expression Analysis[[paper](https://ieeexplore.ieee.org/document/6912969)]
+
+### :small_orange_diamond: IEEE Transactions on Information Forensics and Security
+- (2020) Fine-Grained Facial Expression Recognition in the Wild [[paper](https://ieeexplore.ieee.org/document/9133437)]
 
 ### :small_orange_diamond: Computer Vision and Image Understanding
 - (2019) Registration-free Face-SSD: Single shot analysis of smiles, facial attributes, and affect in the wild[[paper](https://www.sciencedirect.com/science/article/pii/S1077314219300128)]
@@ -403,11 +426,16 @@ in static images [[paper](https://www.sciencedirect.com/science/article/abs/pii/
 ## Facial Action Unit Recognition
 
 ### :small_orange_diamond: AAAI
+- (2021) Uncertain Graph Neural Networks for Facial Action Unit Detection [[paper](https://www.researchgate.net/profile/Tengfei_Song5/publication/346853340_Uncertain_Graph_Neural_Networks_for_Facial_Action_Unit_Detection/links/5fd24e35299bf188d40af784/Uncertain-Graph-Neural-Networks-for-Facial-Action-Unit-Detection.pdf)]
 - (2020) Facial Action Unit Intensity Estimation via Semantic Correspondence Learning with Dynamic Graph Convolution [[paper](https://arxiv.org/pdf/2004.09681.pdf)][[Code](https://github.com/EvelynFan/FAU)]
 - (2019) Semantic Relationships Guided Representation Learning for Facial Action Unit Recognition [[paper](https://arxiv.org/pdf/1904.09939.pdf)]
 - (2019) Dual Semi-Supervised Learning for Facial Action Unit Recognition [[paper](https://www.researchgate.net/publication/335270610_Dual_Semi-Supervised_Learning_for_Facial_Action_Unit_Recognition)]
 
 ### :small_orange_diamond: CVPR
+- (2021) Hybrid Message Passing With Performance-Driven Structures for Facial Action Unit Detection [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Song_Hybrid_Message_Passing_With_Performance-Driven_Structures_for_Facial_Action_Unit_CVPR_2021_paper.pdf)]
+- (2021) Exploiting Semantic Embedding and Visual Feature for Facial Action Unit Detection [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Exploiting_Semantic_Embedding_and_Visual_Feature_for_Facial_Action_Unit_CVPR_2021_paper.pdf)]
+- (2021) Facial Action Unit Detection With Transformers [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jacob_Facial_Action_Unit_Detection_With_Transformers_CVPR_2021_paper.pdf)]
+- (2021) Dynamic Probabilistic Graph Convolution for Facial Action Unit Intensity Estimation [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Song_Dynamic_Probabilistic_Graph_Convolution_for_Facial_Action_Unit_Intensity_Estimation_CVPR_2021_paper.pdf)]
 - (2019) Joint Representation and Estimator Learning for Facial Action Unit Intensity Estimation [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Joint_Representation_and_Estimator_Learning_for_Facial_Action_Unit_Intensity_CVPR_2019_paper.pdf)]
 - (2019) Self-Supervised Representation Learning From Videos for Facial Action Unit Detection [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Self-Supervised_Representation_Learning_From_Videos_for_Facial_Action_Unit_Detection_CVPR_2019_paper.pdf)]
 - (2019) Local Relationship Learning with Person-specific Shape Regularization for
@@ -436,6 +464,8 @@ for Joint Estimation of Facial Action Unit Intensity [[paper](https://ibug.doc.i
 - (2009) A framework for automated measurement of the intensity of non-posed Facial Action Units [[paper](https://ieeexplore.ieee.org/document/5204259)]
 
 ### :small_orange_diamond: ICCV
+- (2021) PIAP-DF: Pixel-Interested and Anti Person-Specific Facial Action Unit Detection
+Net with Discrete Feedback Learning [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Tang_PIAP-DF_Pixel-Interested_and_Anti_Person-Specific_Facial_Action_Unit_Detection_Net_ICCV_2021_paper.pdf)]
 - (2019) Context-Aware Feature and Label Fusion for Facial Action Unit Intensity Estimation With Partially Labeled Data [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Context-Aware_Feature_and_Label_Fusion_for_Facial_Action_Unit_Intensity_ICCV_2019_paper.pdf)]
 - (2017) DeepCoder: Semi-parametric Variational Autoencoders
 for Automatic Facial Action Coding [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/tran_deepcoder_semi-parametric_variational_iccv_2017_paper.pdf)]
@@ -452,15 +482,23 @@ Action Unit Recognition [[paper](http://openaccess.thecvf.com/content_ECCV_2018/
 Unit Detection and Face Alignment[[paper](https://arxiv.org/pdf/1803.05588.pdf)] 
 
 ### :small_orange_diamond: NIPS
+- (2020) Knowledge Augmented Deep Neural Networks for
+Joint Facial Expression and Action Unit Recognition [[paper](https://papers.nips.cc/paper/2020/file/a51fb975227d6640e4fe47854476d133-Paper.pdf)]
 - (2019) Multi-label Co-regularization for Semi-supervised Facial Action Unit Recognition [[paper](https://nxsedson.github.io/paper/NeurIPS2019.pdf)]
 - (2016) Incremental Boosting Convolutional Neural Network
 for Facial Action Unit Recognition [[paper](https://arxiv.org/pdf/1707.05395.pdf)] 
 
 ### :small_orange_diamond: ACM MM
+- (2020) Adaptive Multimodal Fusion for Facial Action Units Recognition [[paper](https://dl.acm.org/doi/pdf/10.1145/3394171.3413538)]
+- (2020) Region of Interest Based Graph Convolution: A Heatmap
+Regression Approach for Action Unit Detection [[paper](https://dl.acm.org/doi/pdf/10.1145/3394171.3413674)]
+- (2020) Unsupervised Learning Facial Parameter Regressor for Action
+Unit Intensity Estimation via Differentiable Renderer [[paper](https://arxiv.org/pdf/2008.08862.pdf)]
 - (2018) Personalized Multiple Facial Action Unit Recognition through
 Generative Adversarial Recognition Network [[paper](https://dl.acm.org/citation.cfm?id=3240613)]
 
 ### :small_orange_diamond: BMVC
+- (2020) Self-Supervised Learning for Facial Action Unit Recognition through Temporal Consistency [[paper](https://www.bmvc2020-conference.com/assets/papers/0861.pdf)][[code](https://github.com/intelligent-human-perception-laboratory/temporal-consistency)]
 - (2019) Unmasking the Devil in the Details:What Works for Deep Facial Action Coding? [[paper](https://bmvc2019.org/wp-content/uploads/papers/0403-paper.pdf)]
 - (2019) Large Margin Loss for Learning Facial
 Movements from Pseudo-Emotions [[paper](https://bmvc2019.org/wp-content/uploads/papers/0498-paper.pdf)]
@@ -503,6 +541,7 @@ Spontaneous Facial Action Units [[paper](https://ieeexplore.ieee.org/document/65
 Action Unit and Holistic Expression Recognition [[paper](http://www.humansensing.cs.cmu.edu/sites/default/files/07471506.pdf)]
 
 ### :small_orange_diamond: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+- (2020) Learning Representations for Facial Actions from Unlabeled Videos [[paper](https://www.computer.org/csdl/journal/tp/5555/01/09145674/1lE04DpfpyE)]
 - (2015) Discriminant Functional Learning of Color
 Features for the Recognition of Facial Action
 Units and their Intensities [[paper](https://ieeexplore.ieee.org/document/8454901)]
@@ -510,6 +549,7 @@ Units and their Intensities [[paper](https://ieeexplore.ieee.org/document/845490
 for Intensity Estimation of Facial Action Units [[paper](https://spiral.imperial.ac.uk/bitstream/10044/1/23471/2/tpamicscorffinal_rudovic.pdf)]
 
 ### :small_orange_diamond: IEEE Transactions on Affective Computing (TAC)
+- (2020) RFAU: A Database for Facial Action Unit Analysis in Real Classrooms [[paper](https://ieeexplore.ieee.org/document/9130811)]
 - (2019) Listen to Your Face: Inferring Facial Action
 Units from Audio Channel [[paper](https://ieeexplore.ieee.org/document/8025777)]
 - (2019) Deep Facial Action Unit Recognition and Intensity Estimation from Partially Labelled Data [[paper](https://ieeexplore.ieee.org/abstract/document/8705351)]
@@ -519,6 +559,8 @@ Units from Audio Channel [[paper](https://ieeexplore.ieee.org/document/8025777)]
 for Joint Estimation of Facial Action Unit Intensity[[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/07983431.pdf)]
 
 ### :small_orange_diamond: IEEE Transactions on Cybernetics
+- (2020) Dual Learning for Facial Action Unit Detection
+Under Nonfull Annotation [[paper](https://ieeexplore.ieee.org/abstract/document/9139271)]
 - (2017) Improving Speech Related Facial Action Unit
 Recognition by Audiovisual Information Fusion [[paper](https://arxiv.org/pdf/1706.10197.pdf)]
 - (2016) Intensity Estimation of Spontaneous Facial Action Units Based on Their Sparsity Properties [[paper](https://ieeexplore.ieee.org/document/7081360)]
